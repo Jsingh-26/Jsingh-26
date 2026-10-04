@@ -26,7 +26,7 @@ The code belongs to my employer, so it isn't public. Here is what I built and ho
 - **Grafana → Slack Connect kit (built, rolling out):** built in one week for another team. A zero-dependency Node.js tool packaged as a single .exe with a one-double-click setup for non-technical staff, and 394 tests, including an end-to-end run against a fake Grafana and a fake Slack.
 - **AI that drafts, a person approves (built, rolling out):** a customer upgrade-impact document where the model only fills data into a fixed template and a person approves every row before any PDF is produced. Plus a root-cause analysis method for Claude: 18 playbooks, with every finding confirmed in a second system.
 
-### Toolbox
+### Toolbox (AI writes the code under my direction; I design, review, test and run it)
 
 TypeScript · React · React Native / Expo · Node.js · C# / .NET · Google Apps Script · Vite · Convex · Netlify Functions · GitHub Actions · OpenRouter model API · Claude · Salesforce · Jira · Grafana
 
