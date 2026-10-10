@@ -3,7 +3,7 @@
 I build the tools customers and teams actually use: custom apps, integrations and automation, built with AI, shipped with tests, CI and a rollback.
 
 - **Portfolio:** [jaspreet-builds.vercel.app](https://jaspreet-builds.vercel.app) — what is in use, what I built, and the public apps, in one scrolling page.
-- **Now:** Customer Experience Manager II at GreyOrange. I designed, built and solely own nine internal systems for the Customer Success org, including a customer-health platform live across 50+ global sites: ~26,000 automated checks, CI on every push, one-command deploy with rollback, and runbooks for handover. Those repos are private employer work; everything below is personal and public.
+- **Now:** Customer Experience Manager II at GreyOrange. I designed, built and solely own nine internal systems for the Customer Success org, including a Customer Happiness Index platform live across 50+ global sites: ~26,000 automated checks, CI on every push, one-command deploy with rollback, and runbooks for handover. Those repos are private employer work; everything below is personal and public.
 - **10+ years** across enterprise CX and technical support (Enphase, NTT Data, Accenture, Dell), always the person who turns a recurring pain into a tool.
 - **How I work:** AI writes most of the code under my direction. I design the system, review everything, maintain the test suites, and own deploy and operations.
 - **Looking for:** Forward Deployed / AI Deployment / Implementation / Solutions Engineering roles where building is the job. Remote worldwide (I work evening-IST overlap with US and EU teams), Delhi NCR, or remote India.
